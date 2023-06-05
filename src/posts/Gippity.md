@@ -13,6 +13,8 @@ published: true
 
 *SvelteKit* is a powerful framework for building fast and efficient web applications. It provides developers with a delightful development experience and offers features like server-side rendering, routing, and component-based architecture. In this blog post, we will explore the process of building and deploying a SvelteKit app, covering everything from setup to deployment. Let's dive in!
 
+## Table of Contents
+
 ## Prerequisites
 
 Before we get started, make sure you have the following prerequisites installed on your system:
