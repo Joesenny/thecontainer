@@ -14,6 +14,7 @@
 </script>
 
 <div class="layout">
+   
     <Header />
 
     <main>
@@ -24,6 +25,7 @@
     
     <Footer />
 </div>
+
 
 <style>
     .layout {

@@ -112,6 +112,14 @@ ol {
 li {
 	padding-inline-start: 0;
 }
+.noise-noise-noise {
+	/* stack grain with a gradient */
+	background-image: var(--gradient-3), var(--noise-3);
+	/* force colors and noise to collide */
+	filter: var(--noise-filter-3);
+	/* fit noise image to element */
+	background-size: cover;
+  }
 
 .surface-1 {
 	background-color: var(--surface-1);
