@@ -26,6 +26,7 @@
         display: grid;
         list-style: none;
         padding: 0;
+        
     }
 
     .post:not(:last-child) {
@@ -49,6 +50,10 @@
 
     .description {
         margin-top: var(--size-3);
+    }
+
+    a {
+        color: inherit;
     }
 </style>
 
