@@ -1,18 +1,19 @@
 ---
-title: 'Module Not Found', and you wouldn't believe why!!!!
+title: Module Not Found and you wouldn't believe why!!!!
 description: Solving File Name Case Sensitivity Issues in Git
 date: '2023-06-20'
 categories:
-    - Github
     - Git
+    - Github
 published: true
 ---
 
+## Table Of Contents
 # Solving File Name Case Sensitivity Issues in Git
 
 When working with a codebase, it's not uncommon to encounter issues with case sensitivity. This is especially true when using Git across different operating systems such as Windows, macOS, and Linux. Today, I'll discuss a problem I recently encountered, the solution, and how to handle file renaming in Git in a case-sensitive manner.
 
-## Table Of Contents
+
 
 ## Problem
 In this scenario, the problem emerged when building a Next.js application. The application was failing to compile with the following error:
