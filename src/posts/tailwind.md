@@ -1,6 +1,6 @@
 ---
 title: Unleashing the Power of Tailwind CSS
-description: A Comprehensive Guide to Getting Started with Tailwind CSS
+description: A Guide to Getting Started 
 date: '2023-07-10'
 categories:
     - CSS
