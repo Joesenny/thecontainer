@@ -1,5 +1,5 @@
 ---
-title: Spice Up Your Web Design: A Guide to CSS Animations & Transitions
+title: Spice Up Your Web Design CSS Animations & Transitions
 description: Unleash the magic of CSS to enhance the interactive elements of your site. 
 date: '2023-06-10'
 categories:

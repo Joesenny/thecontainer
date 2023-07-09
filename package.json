@@ -33,6 +33,7 @@
 	"dependencies": {
 		"@fontsource/jetbrains-mono": "^5.0.1",
 		"@fontsource/manrope": "^5.0.1",
+		"animate.css": "^4.1.1",
 		"lucide-svelte": "^0.221.0",
 		"open-props": "^1.5.8",
 		"rehype-slug": "^5.1.0",
