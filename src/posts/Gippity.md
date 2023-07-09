@@ -1,5 +1,5 @@
 ---
-title: Deploying a SvelteKit Site: A Comprehensive Guide
+title: Sveltkit DEPLOY!!!!!
 description: A detailed walkthrough for deploying a SvelteKit site using Vercel and Netlify
 date: '2023-06-04'
 categories:
